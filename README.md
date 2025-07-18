@@ -1,4 +1,4 @@
-# MERN Inventory Suite
+# MERN Inventory App
 
 A full-stack Product Management application built with the MERN (MongoDB, Express, React, Node.js) stack. This project provides a robust foundation for managing products, featuring a modern frontend and a scalable backend API.
 
