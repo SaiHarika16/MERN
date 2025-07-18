@@ -1,4 +1,4 @@
-# MERN Inventory Suite
+# MERN Inventory App
 
 A full-stack Product Management application built with the MERN (MongoDB, Express, React, Node.js) stack. This project provides a robust, scalable foundation for managing products, featuring a modern frontend and a RESTful backend API.
 
@@ -40,7 +40,7 @@ A full-stack Product Management application built with the MERN (MongoDB, Expres
    - Replace `your_mongodb_connection_string` with your actual MongoDB URI.
 4. Start the backend server:
    ```bash
-   node server.js
+   npm run dev
    ```
    The backend will run on [http://localhost:5000](http://localhost:5000) by default.
 
