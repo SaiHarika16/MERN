@@ -33,7 +33,7 @@ A full-stack Product Management application built with the MERN (MongoDB, Expres
 3. Configure MongoDB connection in `backend/config/db.js` if needed.
 4. Start the backend server:
    ```bash
-   node server.js
+   npm run dev
    ```
    The backend runs on [http://localhost:5000](http://localhost:5000) by default.
 
